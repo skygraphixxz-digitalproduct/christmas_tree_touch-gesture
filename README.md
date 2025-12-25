@@ -96,3 +96,6 @@ Thanks to all the developers who contributed to this project:
 
 ## 📊 Star History
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=skygraphixxz-digitalproduct.github.io/christmas_tree_touch-gesture&type=date&legend=top-left)](https://www.star-history.com/#skygraphixxz-digitalproduct.github.io/christmas_tree_touch-gesture&type=date&legend=top-left)
